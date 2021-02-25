@@ -1,6 +1,6 @@
 module.exports = {
 	Campaign: {
-		prop: "month",
+		prop: "campaignMonth",
 		type: String,
 	},
 	Province: {
